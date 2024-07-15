@@ -31,7 +31,7 @@ I'm a junior DevOps engineer who is a hard working, energetic, and very curious 
 
 - 💬 **Ask me about:** ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
   
-- 📫 **How to reach me:** <a href="chelzwoods90@gmail.com">Email</a> | <a href="www.linkedin.com/in/chelzwoods90">LinkedIn</a>
+- 📫 **How to reach me:** <a href="chelzwoods90@gmail.com">Email</a> | <a href="www.linkedin.com/in/chelzwoods90">LinkedIn</a> | <a href="https://dev.to/chelz1990"> Dev.to</a>
 
 - 😄 **Pronouns:** she/her/they
 
