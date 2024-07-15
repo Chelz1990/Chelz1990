@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 📫 **How to reach me:** <a href="chelzwoods90@gmail.com">Email</a> | <a href="www.linkedin.com/in/chelzwoods90">LinkedIn</a> | <a href="https://dev.to/chelz1990"> Dev.to</a>
 -->
 
 <h1 align="center">Hello world, I'm Chelsea!</h1>
@@ -30,8 +32,6 @@ I'm a junior DevOps engineer who is a hard working, energetic, and very curious 
 - 🌱 **I’m currently learning:** ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - 💬 **Ask me about:** ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-  
-- 📫 **How to reach me:** <a href="chelzwoods90@gmail.com">Email</a> | <a href="www.linkedin.com/in/chelzwoods90">LinkedIn</a> | <a href="https://dev.to/chelz1990"> Dev.to</a>
 
 - 😄 **Pronouns:** she/her/they
 
