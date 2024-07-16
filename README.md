@@ -20,22 +20,23 @@ Here are some ideas to get you started:
 
 
 -->
-
-<h1 align="center">Hello world, I'm Chelsea!</h1>
-
----
+<div align="center">
+<h1>Hello world, I'm Chelsea!</h1>
+<a href="https://www.linkedin.com/in/chelzwoods90/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp; <a href="https://dev.to/chelz1990"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+</div>
+<br>
 
 I'm a junior DevOps engineer who is a hard working, energetic, and very curious person, constantly seeking new and fun adventures to expand my knowledge and skills! I've always had a curious mind about how things work, breaking them down to the smallest parts so I can figure out how to stick 'em back together, which was what drew me towards the world of DevOps in the first place. I've been described as a blood-hound when it comes to solving a problem, because I will follow the scent and track it down stubbornly to the ends of the Earth until I solve it! However, I've also got a flair for the ol' razzle dazzle, so it's been a great opportunity to build innovative and exciting new applications with collaboration from other talented and amazing individuals I can learn from.
 
 ---
 
-- 🔭 &nbsp; I’m currently working on [here]
-- 🌱 &nbsp; I’m currently learning ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- 🔭 &nbsp; I’m currently working on 
+- 🌱 &nbsp; I’m currently learning the programming languages **Go** and **Python**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Chelz1990?tab=repositories)
-- 💬 &nbsp; Ask me about anything about ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-- 📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/chelzwoods90/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp; <a href="https://dev.to/chelz1990"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+- 💬 &nbsp; Ask me about anything about **Kubernetes**
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/chelzwoods90/) | [Dev.to](https://dev.to/chelz1990)
 - 📝 &nbsp; Checkout my [resume]([HERE])
-- 📚 &nbsp; When I am free, I game and listen to music!
+- 📚 &nbsp; When I am free, I game and listen to music
 - ⚡ &nbsp; A fun fact about me is my favorite scent is petichor
 
 ---
