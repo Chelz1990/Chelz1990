@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- 📫 **How to reach me:** <a href="chelzwoods90@gmail.com">Email</a> | <a href="www.linkedin.com/in/chelzwoods90">LinkedIn</a> | <a href="https://dev.to/chelz1990"> Dev.to</a>
+####add this
+
+
 -->
 
 <h1 align="center">Hello world, I'm Chelsea!</h1>
@@ -27,14 +29,18 @@ I'm a junior DevOps engineer who is a hard working, energetic, and very curious 
 
 ---
 
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- 💬 Ask me about ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-- ⚡ Fun fact my favorite scent is petichor
+- 🔭 &nbsp; I’m currently working on [here]
+- 🌱 &nbsp; I’m currently learning ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Chelz1990?tab=repositories)
+- 💬 &nbsp; Ask me about anything about ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+- 📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/chelzwoods90/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp; <a href="https://dev.to/chelz1990"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+- 📝 &nbsp; Checkout my [resume]([HERE])
+- 📚 &nbsp; When I am free, I game and listen to music!
+- ⚡ &nbsp; A fun fact about me is my favorite scent is petichor
 
 ---
 &nbsp;<div align="center">
-![Chelsea's GitHub stats](https://github-readme-stats.vercel.app/api?username=chelz1990&show_icons=true&theme=dracula)
+![Chelsea's GitHub stats](https://github-readme-stats.vercel.app/api?username=chelz1990&show_icons=true&theme=onedark)
 </div>
 
 <h3>Tech Stack</h3>
