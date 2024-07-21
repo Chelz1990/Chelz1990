@@ -35,7 +35,7 @@ I'm a junior DevOps engineer who is a hard working, energetic, and very curious 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Chelz1990?tab=repositories)
 - 💬 &nbsp; Ask me about anything about **Kubernetes**
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/chelzwoods90/) | [Dev.to](https://dev.to/chelz1990)
-- 📝 &nbsp; Checkout my [resume]([HERE])
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1q3BGxczi7KIS_Ig1pDY2GbNS20OgB4Pt/view?usp=drive_link)
 - 📚 &nbsp; When I am free, I game and listen to music
 - ⚡ &nbsp; A fun fact about me is my favorite scent is petichor
 
